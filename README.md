@@ -75,8 +75,6 @@ From the repository root, run:
 python dfit_app.py
 ```
 
-Open [http://localhost:5050](http://localhost:5050) in a browser. Change values in the parameter panel and select **Re-run Simulation**. Stop the server with `Ctrl+C`.
-
 The two Python files must remain together, and the command must be run from the repository root, because `dfit_app.py` loads `dfit_v4.py` by its relative filename.
 
 ## Run the plotting example
@@ -114,11 +112,4 @@ See [Model overview](docs/MODEL_OVERVIEW.md) for the complete set of documented 
 
 Valkó and Economides, *Hydraulic Fracture Mechanics* (1995).
 
-## Publishing on GitHub
-
-The folder is ready to become a repository. See [GitHub upload instructions](docs/GITHUB_UPLOAD.md) for browser and command-line options.
-
-## License
-
-No license has been added because a license is a project-owner decision. Before publishing the repository for reuse, add the license that matches the permissions you want to grant. Without a license, normal copyright restrictions apply even if the repository is public.
 
